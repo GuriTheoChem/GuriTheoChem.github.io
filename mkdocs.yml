@@ -18,7 +18,7 @@ theme:
   features:
     - announce.dismiss
     # - content.action.edit
-    - content.action.view
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.code.select
@@ -76,6 +76,13 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   # - minify:
   #     minify_html: true
+  - rss:
+      match_path: blog/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags  
 
 # Additional configuration
 extra:
@@ -140,5 +147,5 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  # - Blog:
-  #   - blog/index.md
+  - Blog:
+    - blog/index.md
