@@ -1,13 +1,13 @@
 # Project information
-site_name: GuriTheoChem
+site_name: Gurjot Singh
 site_url: https://guritheochem.github.io
 site_author: Gurjot Singh
 site_description: >-
   My personal website
 
 # Repository
-repo_name: GuriTheoChem/GuriTheoChem.github.io
-repo_url: https://github.com/GuriTheoChem/GuriTheoChem.github.io
+# repo_name: GuriTheoChem/GuriTheoChem.github.io
+# repo_url: https://github.com/GuriTheoChem/GuriTheoChem.github.io
 
 # Copyright
 copyright: Copyright &copy; 2024 Gurjot Singh
@@ -21,7 +21,7 @@ theme:
     # - content.action.view
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
+    - content.code.select
     # - content.footnote.tooltips
     # - content.tabs.link
     - content.tooltips
@@ -50,24 +50,24 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: blue
+      accent: pink
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: pink
       toggle:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
     text: Roboto
     code: Roboto Mono
-  # favicon: path/to/favicon
-  # icon:
-    # logo: path/to/logo
+  favicon: material/atom
+  icon:
+    logo: material/atom
 
 # Plugins
 plugins:

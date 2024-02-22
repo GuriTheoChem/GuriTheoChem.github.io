@@ -1,3 +1,3 @@
-# GuriTheoChem
+# Gurjot Singh
 
-First Attempt to set up my personal Website.
+Welcome to my Personal Website.
