@@ -65,7 +65,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: material/atom
+  favicon: images/atom.png
   icon:
     logo: material/atom
 
