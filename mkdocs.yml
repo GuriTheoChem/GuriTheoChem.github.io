@@ -95,6 +95,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/GuriTheoChem
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ
 
 
 # Extensions
