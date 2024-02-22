@@ -147,5 +147,6 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Blog:
-    - blog/index.md
+  - CV: cv/cv.md
+  # - Blog:
+    # - blog/index.md
