@@ -2,8 +2,8 @@
 site_name: Gurjot Singh
 site_url: https://guritheochem.github.io
 site_author: Gurjot Singh
-site_description: >-
-  My personal website
+# site_description: >-
+#   My personal website
 
 # Repository
 # repo_name: GuriTheoChem/GuriTheoChem.github.io
@@ -68,6 +68,22 @@ theme:
   favicon: images/atom.png
   icon:
     logo: material/atom
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+extra_css:
+  - stylesheets/extra.css
 
 # Plugins
 plugins:
