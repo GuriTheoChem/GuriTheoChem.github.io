@@ -166,5 +166,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - CV: cv/cv.md
+  # - Publications: publications/publications.md
   # - Blog:
     # - blog/index.md
