@@ -111,8 +111,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/GuriTheoChem
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/guri_theo_chem
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ
+    # - icon: fontawesome/solid/envelope
+    #   link: mailto:guritheochem@gmail.com
 
 
 # Extensions
