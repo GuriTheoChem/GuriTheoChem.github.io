@@ -1,0 +1,18 @@
+/* Text align */
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Custom styles for tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px;
+    text-align: left;
+    padding: 1px;
+}
