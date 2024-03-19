@@ -1,6 +1,6 @@
 # Gurjot Singh
 
-<!-- **Email** : <guritheochem@gmail.com> -->
+<!-- **Email** : <gur.kabir@gmail.com> -->
 
 ---
 
