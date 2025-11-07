@@ -4,6 +4,8 @@ PhD Candidate, Computational Chemistry
 
 Nationality: Indian
 
+Age: 29
+
 Languages: English - Fluent, Hindi - Native
 
 ---
@@ -51,11 +53,11 @@ In this PhD thesis, the electronic structure and magnetic properties of several 
 
 - In the first project, magnetic exchange coupling of two copper dimers with methods such as DMRGSCF + NEVPT2, DDCI, and BS-LPNO-CCSD was studied.[^1]
 
-[^1]: Singh, Gurjot, Stefani Gamboa, Maylis Orio, Dimitrios A. Pantazis, and Michael Roemelt. 2021. “Magnetic Exchange Coupling in Cu Dimers Studied with Modern Multireference Methods and Broken-Symmetry Coupled Cluster Theory.” *Theoretical Chemistry Accounts* 140 (10). <https://doi.org/10.1007/s00214-021-02830-0>.
+[^1]: **Singh, G.**; Gamboa, S.; Orio, M.; Pantazis, D. A.; Roemelt, M. Magnetic Exchange Coupling in Cu Dimers Studied with Modern Multireference Methods and Broken-Symmetry Coupled Cluster Theory. *Theor. Chem. Acc.* **2021**, *140* (10). [https://doi.org/10.1007/s00214-021-02830-0](https://doi.org/10.1007/s00214-021-02830-0){:target="_blank"}
 
 - In the second project, the electronic structure of an ambiguous cobalt-oxo intermediate was investigated through a collaborative theoretical and experimental study.[^2]
 
-[^2]: Malik, Deesha D., Wooyeol Ryu, Yujeong Kim, et al. 2024. “Identification, Characterization, and Electronic Structures of Interconvertible Cobalt–Oxygen TAML Intermediates.” *Journal of the American Chemical Society* 146 (20): 13817–35. <https://doi.org/10.1021/jacs.3c14346>.
+[^2]: Malik, D. D.; Ryu, W.; Kim, Y.; **Singh, G.**; Kim, J.-H.; Sankaralingam, M.; Lee, Y.-M.; Seo, M. S.; Sundararajan, M.; Ocampo, D.; Roemelt, M.; Park, K.; Kim, S. H.; Baik, M.-H.; Shearer, J.; Ray, K.; Fukuzumi, S.; Nam, W. Identification, Characterization, and Electronic Structures of Interconvertible Cobalt–Oxygen TAML Intermediates. *J. Am. Chem. Soc.* **2024**, *146* (20), 13817–13835. [https://doi.org/10.1021/jacs.3c14346](https://doi.org/10.1021/jacs.3c14346){:target="_blank"}
 
 - In the third project, a new methodology was developed to calculate spin-orbit coupling and g-tensors by combining QD-NEVPT2 with selected CI references, and was tested on benchmark systems.
 
@@ -72,7 +74,7 @@ This project was a theoretical study and exploration of the electronic structure
 
 ## :material-book: Publications
 
-See them [here](../publications/publications.md "Publications") or on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ "Google Scholar").
+See them on [Publications](../publications/publications.md "Publications") or on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ "Google Scholar"){:target="_blank"}.
 
 ---
 
