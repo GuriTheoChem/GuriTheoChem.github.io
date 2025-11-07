@@ -1,9 +1,10 @@
 /* Text align */
-p {
+/* p {
     text-align: justify;
     text-justify: inter-word;
 }
 
+*/
 /* Custom styles for tables */
 table {
     border-collapse: collapse;
@@ -15,4 +16,13 @@ td {
     border: 1px;
     text-align: left;
     padding: 1px;
+}
+/* Light theme color */
+:root {
+    --md-primary-fg-color: #1b263b;
+}
+
+/* Link color */
+:root>* {
+    --md-typeset-a-color: #3f52b5;
 }

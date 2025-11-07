@@ -50,7 +50,7 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
+      primary: custom
       accent: pink
       toggle:
         icon: material/toggle-switch
@@ -99,6 +99,8 @@ plugins:
       categories:
         - categories
         - tags  
+  # - bibtex:
+  #     bib_file: "publications.bib" # Put bib in same folder as mkdocs.yml
 
 # Additional configuration
 extra:
@@ -166,10 +168,15 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 # Page tree
 nav:
   - Home: index.md
   - CV: cv/cv.md
-  # - Publications: publications/publications.md
+  - Publications: publications/publications.md
   # - Blog:
     # - blog/index.md
