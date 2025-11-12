@@ -176,6 +176,7 @@ extra_javascript:
 # Page tree
 nav:
   - Home: index.md
+  - Research Interests: research_interests/research_interests.md
   - CV: cv/cv.md
   - Publications: publications/publications.md
   # - Blog:

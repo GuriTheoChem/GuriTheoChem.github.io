@@ -4,6 +4,10 @@ List of my publications arranged chronologically.
 
 ---
 
+## In Preparation
+
+**Singh, G.**; Roemelt, M. Spin-orbit coupling with quasidegenerate N-electron valence state perturbation theory using selected CI references for molecular g-tensor calculations. *Manuscript in preparation*
+
 ## 2024
 
 Malik, D. D.; Ryu, W.; Kim, Y.; **Singh, G.**; Kim, J.-H.; Sankaralingam, M.; Lee, Y.-M.; Seo, M. S.; Sundararajan, M.; Ocampo, D.; Roemelt, M.; Park, K.; Kim, S. H.; Baik, M.-H.; Shearer, J.; Ray, K.; Fukuzumi, S.; Nam, W. Identification, Characterization, and Electronic Structures of Interconvertible Cobalt–Oxygen TAML Intermediates. *J. Am. Chem. Soc.* **2024**, *146* (20), 13817–13835. [https://doi.org/10.1021/jacs.3c14346](https://doi.org/10.1021/jacs.3c14346){:target="_blank"}

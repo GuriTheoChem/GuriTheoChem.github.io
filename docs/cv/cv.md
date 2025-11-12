@@ -2,11 +2,11 @@
 
 PhD Candidate, Computational Chemistry
 
-Nationality: Indian
+Nationality: Indian  
+Year of birth: 1996  
+Languages: English - Fluent, Hindi - Native  
 
-Age: 29
-
-Languages: English - Fluent, Hindi - Native
+[**:material-file-pdf-box: View CV**](Gurjot_Singh_CV.pdf){target=_blank} | [**:material-download: Download CV**](Gurjot_Singh_CV.pdf){target=_blank download="Gurjot_Singh_CV.pdf"}
 
 ---
 
@@ -49,26 +49,29 @@ Humboldt Universität zu Berlin, Berlin, Germany
 Supervisor: Prof. Dr. Michael Roemelt  
 Date: 2020-now  
 
-In this PhD thesis, the electronic structure and magnetic properties of several transition metal complexes were explored using many multireference methods, over three sub-projects:
+In this PhD thesis, the electronic structure and magnetic properties of several transition metal complexes were explored using multireference methods, over three sub-projects:
 
-- In the first project, magnetic exchange coupling of two copper dimers with methods such as DMRGSCF + NEVPT2, DDCI, and BS-LPNO-CCSD was studied.[^1]
+- Studied magnetic exchange coupling of two copper dimers with methods such as CASSCF/DMRGSCF + NEVPT2, DDCI, and BS-LPNO-CCSD.[^1]
 
 [^1]: **Singh, G.**; Gamboa, S.; Orio, M.; Pantazis, D. A.; Roemelt, M. Magnetic Exchange Coupling in Cu Dimers Studied with Modern Multireference Methods and Broken-Symmetry Coupled Cluster Theory. *Theor. Chem. Acc.* **2021**, *140* (10). [https://doi.org/10.1007/s00214-021-02830-0](https://doi.org/10.1007/s00214-021-02830-0){:target="_blank"}
 
-- In the second project, the electronic structure of an ambiguous cobalt-oxo intermediate was investigated through a collaborative theoretical and experimental study.[^2]
+- Investigated the electronic structure of an ambiguous cobalt-oxo intermediate through a collaborative theoretical and experimental study.[^2]
 
 [^2]: Malik, D. D.; Ryu, W.; Kim, Y.; **Singh, G.**; Kim, J.-H.; Sankaralingam, M.; Lee, Y.-M.; Seo, M. S.; Sundararajan, M.; Ocampo, D.; Roemelt, M.; Park, K.; Kim, S. H.; Baik, M.-H.; Shearer, J.; Ray, K.; Fukuzumi, S.; Nam, W. Identification, Characterization, and Electronic Structures of Interconvertible Cobalt–Oxygen TAML Intermediates. *J. Am. Chem. Soc.* **2024**, *146* (20), 13817–13835. [https://doi.org/10.1021/jacs.3c14346](https://doi.org/10.1021/jacs.3c14346){:target="_blank"}
 
-- In the third project, a new methodology was developed to calculate spin-orbit coupling and g-tensors by combining QD-NEVPT2 with selected CI references, and was tested on benchmark systems.
+- Developed a new methodology to calculate spin-orbit coupling and $g$-tensors by combining QD-NEVPT2 with selected CI references, and tested it on benchmark systems.
 
-### Masters Thesis
+### Master's Thesis
 
 *A Theoretical Investigation of Hetero Binuclear Diamond-shaped-core Complexes*  
 Indian Institute of Technology Bombay, Mumbai, India  
 Supervisor: Prof. G. Rajaraman  
 Date: 2018-19  
 
-This project was a theoretical study and exploration of the electronic structure, reactivity and energetics of hetero-binuclear inorganic molecules having a diamond-shaped core of $[\text{M}^{(1)}\text{(III)}(\mu\text{-O})_2 \text{M}^{(2)}\text{(III)}]^{2+}$, using density functional theory computations. A model molecule having a core of $[\text{Ni}\text{(III)}(\mu\text{-O})_2 \text{Cu}\text{(III)}]^{2+}$ was studied, in which its electronic structure, spectral properties and nucleophilicity towards cyclohexane-carbaldehyde were explored.
+This project was a theoretical study of hetero-binuclear inorganic molecules with a diamond-shaped core of $[\text{M}^{1}\text{(III)}(\mu\text{-O})_2 \text{M}^{2}\text{(III)}]$.
+
+- Investigated electronic structure, energetics, and spectral properties of $[\text{L}^{1}\text{Ni}(\mu\text{-O})_2 \text{Cu}\text{L}^{2}]^{2+}$ molecule using density functional theory.
+- Explored the nucleophilicity of the $[\text{L}^{1}\text{M}^{1}(\mu\text{-O})_2 \text{M}^{2}\text{L}^{2}]^{n+}$ system (M = Fe, Ni, Co, and Cu) towards cyclohexanecarbaldehyde.
 
 ---
 
@@ -84,7 +87,7 @@ See them on [Publications](../publications/publications.md "Publications") or on
 
 Roemelt Group at Humboldt-Universität zu Berlin, Berlin, Germany
 
-- Worked as a developer for the HUMMR Program, which is devoted to conducting highly accurate and efficient multireference electronic structure calculations.
+- Worked as a developer on the HUMMR program, devoted to conducting accurate and efficient multireference electronic structure calculations.
 - Implemented Angeli et. al.'s QD-NEVPT2 method in the program.
 - Wrote the spin-orbit coupling module for calculation of spin-orbit coupling and $g$-tensors.
 
@@ -92,7 +95,7 @@ Roemelt Group at Humboldt-Universität zu Berlin, Berlin, Germany
 
 ## :material-cash: Grants and Scholarships
 
-### Doctoral Research Fellowship (DFG-funded project)
+### Doctoral Research Fellowship
 
 Deutsche Forschungsgemeinschaft (DFG)  
 2020–24  
@@ -104,15 +107,17 @@ Deutsche Forschungsgemeinschaft (DFG)
 Granted by the Ministry of Science and Technology, Government of India  
 2014-19  
 
+- National scholarship for pursuing science education, awarded to top 1% of students based on 12th-grade academic performance.
+
 ---
 
-## :material-presentation: Talks
+<!-- ## :material-presentation: Talks
 
 - *Implementation of Spin-Orbit Coupling and calculation of molecular g-tensors with QD-NEVPT2 using Selected CI references*  
 FU Berlin, Berlin, Germany  
-Aug 2025
+May 2025
 
----
+--- -->
 
 ## :material-laptop: Tech Stack
 
