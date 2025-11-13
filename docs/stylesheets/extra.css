@@ -26,3 +26,44 @@ td {
 :root>* {
     --md-typeset-a-color: #3f52b5;
 }
+/* Center homepage content in admonition */
+.md-typeset .admonition.note {
+    text-align: center;
+    max-width: 800px;
+    margin: 2rem auto;
+    font-size: 1rem;
+    /* slightly bigger base text */
+    line-height: 1.6;
+}
+
+/* Make the main heading (name) bigger */
+.md-typeset .admonition.note h1 {
+    font-size: 3rem;
+    /* adjust as needed */
+    margin-bottom: 1rem;
+}
+
+/* Optional: slightly bigger subheading */
+.md-typeset .admonition.note h2,
+.md-typeset .admonition.note h3 {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+}
+
+/* Profile image styling */
+.md-typeset .admonition.note img {
+    display: block;
+    margin: 1rem auto;
+    width: 300px;
+    /* adjust as needed */
+    border-radius: 12px;
+    /* or 50% for circular */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+/* Optional spacing for buttons/links */
+.md-typeset .admonition.note a.md-button {
+    margin: 0.3rem;
+    font-size: 1.1rem;
+    /* slightly larger buttons */
+}

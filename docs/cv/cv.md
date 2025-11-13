@@ -6,7 +6,7 @@ Nationality: Indian
 Year of birth: 1996  
 Languages: English - Fluent, Hindi - Native  
 
-[**:material-file-pdf-box: View CV**](Gurjot_Singh_CV.pdf){target=_blank} | [**:material-download: Download CV**](Gurjot_Singh_CV.pdf){target=_blank download="Gurjot_Singh_CV.pdf"}
+[**:material-file-pdf-box: View CV**](Gurjot_Singh_CV.pdf){target=_blank  .md-button .md-button--primary } | [**:material-download: Download CV**](Gurjot_Singh_CV.pdf){target=_blank download="Gurjot_Singh_CV.pdf"  .md-button .md-button--primary }
 
 ---
 

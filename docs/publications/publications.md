@@ -1,4 +1,4 @@
-# Publications
+# :material-book: Publications
 
 List of my publications arranged chronologically.
 

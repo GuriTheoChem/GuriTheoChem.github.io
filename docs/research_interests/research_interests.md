@@ -16,7 +16,7 @@ I am broadly interested in developing and applying ab initio methods to learn th
 
 My current research for my doctoral thesis is focused on using multireference methods to study electronic structure and molecular magnetism in transition metal complexes.
 
-[**:material-file-pdf-box: View PhD Thesis Summary**](Gurjot_Singh_thesis_summary.pdf){target=_blank} | [**:material-download: Download**](Gurjot_Singh_thesis_summary.pdf){target=_blank download="Gurjot_Singh_thesis_summary.pdf"}
+[**:material-file-pdf-box: View PhD Thesis Summary**](Gurjot_Singh_thesis_summary.pdf){target=_blank  .md-button .md-button--primary } | [**:material-download: Download**](Gurjot_Singh_thesis_summary.pdf){target=_blank download="Gurjot_Singh_thesis_summary.pdf" .md-button .md-button--primary }
 
 ### Multireference Electronic Structure Methods
 
@@ -60,3 +60,12 @@ Developed a new framework combining QD-NEVPT2 with selected CI references (based
 
 - Tested and validated on benchmark systems.
 - Manuscript in preparation.
+
+---
+
+## Future Research Directions
+
+Building on my experience, for my post-doctoral research, I am interested in further expanding my computational skills and explore interesting avenues of research that ties in electronic structure theory and transition metal chemistry.
+I want to study interesting systems with practical and beneficial applications.
+This would include studying bio-inspired systems, catalysis, molecular magnets.
+I want to further develop and apply ab initio methods to accurately model such systems.
