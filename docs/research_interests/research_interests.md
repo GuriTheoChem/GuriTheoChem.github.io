@@ -60,12 +60,3 @@ Developed a new framework combining QD-NEVPT2 with selected CI references (based
 
 - Tested and validated on benchmark systems.
 - Manuscript in preparation.
-
----
-
-## Future Research Directions
-
-Building on my experience, for my post-doctoral research, I am interested in further expanding my computational skills and explore interesting avenues of research that ties in electronic structure theory and transition metal chemistry.
-I want to study interesting systems with practical and beneficial applications.
-This would include studying bio-inspired systems, catalysis, molecular magnets.
-I want to further develop and apply ab initio methods to accurately model such systems.
