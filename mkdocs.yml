@@ -15,6 +15,7 @@ copyright: Copyright &copy; 2024-25 Gurjot Singh
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   features:
     - announce.dismiss
     # - content.action.edit
@@ -130,7 +131,7 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - toc:
-      permalink: true
+      permalink: false
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:

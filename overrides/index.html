@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="home-hero" style="text-align:center; max-width:800px; margin: 0rem auto;">
+
+
+    <!-- Name -->
+    <p style="font-size:3rem; margin-bottom:0.5rem;">Gurjot Singh</p>
+
+    <!-- Profile Image -->
+    <img src="profile_pic.jpg" alt="Gurjot Singh"
+        style="width:300px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.25); margin-bottom:1rem;">
+
+    <!-- Welcome -->
+    <p style="font-size:1.2rem; margin-bottom:1rem;">Welcome to my personal website.</p>
+
+    <!-- Bio -->
+    <p style="font-size:1rem; line-height:1.6; margin-bottom:1.5rem;">
+        I am a PhD candidate at Humboldt-Universität zu Berlin. My research area is theoretical and computational chemistry.
+        My current work focuses on studying transition metal complexes using <em>multireference methods</em>.
+    </p>
+
+    <!-- Material Buttons -->
+    <div class="md-button-group" style="margin-top:1rem;">
+        <a href="cv/cv" class="md-button md-button--primary"> View CV</a>
+        <a href="research_interests/research_interests" class="md-button md-button--primary"> Research Interests</a>
+        <a href="publications/publications" class="md-button md-button--primary"> Publications</a>
+    </div>
+
+</div>
+{% endblock %}

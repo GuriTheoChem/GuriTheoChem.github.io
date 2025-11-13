@@ -19,21 +19,35 @@ td {
 }
 /* Light theme color */
 :root {
-    --md-primary-fg-color: #1b263b;
+    --md-primary-fg-color: #2A4D8F;
 }
 
 /* Link color */
 :root>* {
     --md-typeset-a-color: #3f52b5;
 }
-/* Center homepage content in admonition */
+
 .md-typeset .admonition.note {
     text-align: center;
+        /* keep content centered */
     max-width: 800px;
     margin: 2rem auto;
     font-size: 1rem;
-    /* slightly bigger base text */
     line-height: 1.6;
+/* Remove admonition styling */
+    border: none;
+    /* remove border line */
+    background: transparent;
+    /* remove background color */
+    padding: 0;
+    /* remove extra padding */
+    box-shadow: none;
+    /* remove shadow if any */
+}
+
+/* Hide the little “note” label */
+.md-typeset .admonition.note .admonition-title {
+    display: none;
 }
 
 /* Make the main heading (name) bigger */
@@ -64,6 +78,6 @@ td {
 /* Optional spacing for buttons/links */
 .md-typeset .admonition.note a.md-button {
     margin: 0.3rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
     /* slightly larger buttons */
 }
