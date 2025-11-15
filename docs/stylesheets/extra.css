@@ -19,24 +19,10 @@ td {
 }
 /* Light theme color */
 :root {
-    --md-primary-fg-color: #2A4D8F;
+    --md-primary-fg-color: #3f52b5;
 }
 
 /* Link color */
-/* :root>* {
-    --md-typeset-a-color: #3f52b5;
-}
-
-*/
-
-/* ------- LIGHT THEME LINK COLORS ------- */
-[data-md-color-scheme="default"] {
-    --md-typeset-a-color: #0055cc;
-    /* normal link color */
-}
-
-/* ------- DARK THEME LINK COLORS ------- */
-[data-md-color-scheme="slate"] {
-    --md-typeset-a-color: #7ab8ff;
-    /* normal link color */
+:root>* {
+    --md-typeset-a-color: #6e5eff;
 }
