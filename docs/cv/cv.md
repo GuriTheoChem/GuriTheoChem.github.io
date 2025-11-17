@@ -2,9 +2,9 @@
 
 PhD Candidate, Computational Chemistry
 
-Nationality: Indian  
+<!-- Nationality: Indian  
 Year of birth: 1996  
-Languages: English - Fluent, Hindi - Native  
+Languages: English - Fluent, Hindi - Native   -->
 
 [**:material-file-pdf-box: View CV**](Gurjot_Singh_CV.pdf){target=_blank  .md-button .md-button--primary } | [**:material-download: Download CV**](Gurjot_Singh_CV.pdf){target=_blank download="Gurjot_Singh_CV.pdf"  .md-button .md-button--primary }
 
@@ -12,7 +12,7 @@ Languages: English - Fluent, Hindi - Native
 
 ## :material-link: Profile Links
 
-:material-email: **Email** : <guritheochem@gmail.com>  
+:material-email: **Email** : <gurjot.singh@hu-berlin.de> | <guritheochem@gmail.com>  
 
 <!-- [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guritheochem@gmail) -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GuriTheoChem){:target="_blank"}
@@ -26,7 +26,7 @@ Languages: English - Fluent, Hindi - Native
 ### PhD Chemistry
 
 Humboldt-Universität zu Berlin, Berlin, Germany  
-2020-now  
+2020-present  
 
 ### M.Sc. Chemistry
 
@@ -47,7 +47,7 @@ Hansraj College, University of Delhi, Delhi, India
 *Ab Initio Insights into Molecular Magnetism: A Multireference Study of Transition Metal Complexes*  
 Humboldt Universität zu Berlin, Berlin, Germany  
 Supervisor: Prof. Dr. Michael Roemelt  
-Date: 2020-now  
+Date: 2020-present  
 
 In this PhD thesis, the electronic structure and magnetic properties of several transition metal complexes were explored using multireference methods, over three sub-projects:
 
