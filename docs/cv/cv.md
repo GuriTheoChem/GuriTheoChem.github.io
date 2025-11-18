@@ -26,17 +26,17 @@ Languages: English - Fluent, Hindi - Native   -->
 ### PhD Chemistry
 
 Humboldt-Universität zu Berlin, Berlin, Germany  
-2020-present  
+2020–present  
 
 ### M.Sc. Chemistry
 
 Indian Institute of Technology Bombay, Mumbai, India  
-2017-19  
+2017–19  
 
 ### B.Sc.(Honours) Chemistry
 
 Hansraj College, University of Delhi, Delhi, India  
-2014-17  
+2014–17  
 
 ---
 
@@ -47,7 +47,7 @@ Hansraj College, University of Delhi, Delhi, India
 *Ab Initio Insights into Molecular Magnetism: A Multireference Study of Transition Metal Complexes*  
 Humboldt Universität zu Berlin, Berlin, Germany  
 Supervisor: Prof. Dr. Michael Roemelt  
-Date: 2020-present  
+Date: 2020–present  
 
 In this PhD thesis, the electronic structure and magnetic properties of several transition metal complexes were explored using multireference methods, over three sub-projects:
 
@@ -66,7 +66,7 @@ In this PhD thesis, the electronic structure and magnetic properties of several 
 *A Theoretical Investigation of Hetero Binuclear Diamond-shaped-core Complexes*  
 Indian Institute of Technology Bombay, Mumbai, India  
 Supervisor: Prof. G. Rajaraman  
-Date: 2018-19  
+Date: 2018–19  
 
 This project was a theoretical study of hetero-binuclear inorganic molecules with a diamond-shaped core of $[\text{M}^{1}\text{(III)}(\mu\text{-O})_2 \text{M}^{2}\text{(III)}]$.
 
@@ -105,7 +105,7 @@ Deutsche Forschungsgemeinschaft (DFG)
 ### INSPIRE Scholarship
 
 Granted by the Ministry of Science and Technology, Government of India  
-2014-19  
+2014–19  
 
 - National scholarship for pursuing science education, awarded to top 1% of students based on 12th-grade academic performance.
 
