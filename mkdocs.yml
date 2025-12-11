@@ -180,5 +180,5 @@ nav:
   - Research Interests: research_interests/research_interests.md
   - CV: cv/cv.md
   - Publications: publications/publications.md
-  # - Blog:
-    # - blog/index.md
+  - Blog:
+    - blog/index.md

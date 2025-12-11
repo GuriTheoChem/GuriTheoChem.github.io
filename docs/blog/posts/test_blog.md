@@ -8,7 +8,7 @@ date:
   # updated: 
 categories:
   - Test Blog
-  - Sample
+  # - Sample
 ---
 
 <!-- A sample Blog Post -->
