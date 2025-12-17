@@ -1,0 +1,28 @@
+/* Text align */
+/* p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+*/
+/* Custom styles for tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px;
+    text-align: left;
+    padding: 1px;
+}
+/* Light theme color */
+:root {
+    --md-primary-fg-color: #3f52b5;
+}
+
+/* Link color */
+:root>* {
+    --md-typeset-a-color: #6e5eff;
+}
