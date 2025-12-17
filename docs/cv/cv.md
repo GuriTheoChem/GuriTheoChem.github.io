@@ -93,32 +93,6 @@ Roemelt Group at Humboldt-Universität zu Berlin, Berlin, Germany
 
 ---
 
-## :material-cash: Grants and Scholarships
-
-### Doctoral Research Fellowship
-
-Deutsche Forschungsgemeinschaft (DFG)  
-2020–24  
-
-- Supported through a DFG-funded research project in the group of Prof. Dr. Michael Roemelt at Humboldt-Universität zu Berlin, focusing on multireference electronic structure theory and molecular magnetism in bio-inspired transition metal systems.
-
-### INSPIRE Scholarship
-
-Granted by the Ministry of Science and Technology, Government of India  
-2014–19  
-
-- National scholarship for pursuing science education, awarded to top 1% of students based on 12th-grade academic performance.
-
----
-
-<!-- ## :material-presentation: Talks
-
-- *Implementation of Spin-Orbit Coupling and calculation of molecular g-tensors with QD-NEVPT2 using Selected CI references*  
-FU Berlin, Berlin, Germany  
-May 2025
-
---- -->
-
 ## :material-laptop: Tech Stack
 
 ### Modelling and Scientific Software
@@ -161,3 +135,31 @@ May 2025
 ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+## :material-cash: Grants and Scholarships
+
+### Doctoral Research Fellowship
+
+Deutsche Forschungsgemeinschaft (DFG)  
+2020–24  
+
+- Supported through a DFG-funded research project in the group of Prof. Dr. Michael Roemelt at Humboldt-Universität zu Berlin, focusing on multireference electronic structure theory and molecular magnetism in bio-inspired transition metal systems.
+
+### INSPIRE Scholarship
+
+Granted by the Ministry of Science and Technology, Government of India  
+2014–19  
+
+- National scholarship for pursuing science education, awarded to top 1% of students based on 12th-grade academic performance.
+
+---
+
+<!-- ## :material-presentation: Talks
+
+- *Implementation of Spin-Orbit Coupling and calculation of molecular g-tensors with QD-NEVPT2 using Selected CI references*  
+FU Berlin, Berlin, Germany  
+May 2025
+
+--- -->
