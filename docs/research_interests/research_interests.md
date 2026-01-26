@@ -4,8 +4,8 @@
 ![Electronic Structure Theory](https://img.shields.io/badge/Electronic%20Structure%20Theory-00897B?style=for-the-badge)
 ![Computational Chemistry](https://img.shields.io/badge/Computational%20Chemistry-00695C?style=for-the-badge)
 ![Ab Initio Methods](https://img.shields.io/badge/Ab%20Initio%20Methods-7E57C2?style=for-the-badge)
-![Transition Metal Chemistry](https://img.shields.io/badge/Transition%20Metal%20Chemistry-4527A0?style=for-the-badge)
-![Molecular Magnetism](https://img.shields.io/badge/Molecular%20Magnetism-0288D1?style=for-the-badge)
+<!-- ![Transition Metal Chemistry](https://img.shields.io/badge/Transition%20Metal%20Chemistry-4527A0?style=for-the-badge) -->
+<!-- ![Molecular Magnetism](https://img.shields.io/badge/Molecular%20Magnetism-0288D1?style=for-the-badge) -->
 
 <!-- My research interests lie at the intersection of electronic structure theory and transition metal chemistry.
 I am broadly interested in developing and applying ab initio methods to learn the behaviour and properties of transition metal complexes.
