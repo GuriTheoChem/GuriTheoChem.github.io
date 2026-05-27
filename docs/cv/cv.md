@@ -1,6 +1,6 @@
 # Gurjot Singh
 
-PhD Candidate, Computational Chemistry
+PhD, Computational Chemistry
 
 <!-- Nationality: Indian  
 Year of birth: 1996  
@@ -26,7 +26,7 @@ Languages: English - Fluent, Hindi - Native   -->
 ### PhD Chemistry
 
 Humboldt-Universität zu Berlin, Berlin, Germany  
-2020–present  
+2020–26  
 
 ### M.Sc. Chemistry
 
@@ -47,7 +47,7 @@ Hansraj College, University of Delhi, Delhi, India
 *Ab Initio Insights into Molecular Magnetism: A Multireference Study of Transition Metal Complexes*  
 Humboldt Universität zu Berlin, Berlin, Germany  
 Supervisor: Prof. Dr. Michael Roemelt  
-Date: 2020–present  
+Date: 2020–26  
 
 In this PhD thesis, the electronic structure and magnetic properties of several transition metal complexes were explored using multireference methods, over three sub-projects:
 
