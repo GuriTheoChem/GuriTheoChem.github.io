@@ -1,0 +1,205 @@
+/*-- scss:defaults --*/
+
+// Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Mono:wght@400;500&display=swap');
+
+// Font overrides
+$font-family-sans-serif: 'Roboto', sans-serif;
+$font-family-monospace:  'Roboto Mono', monospace;
+
+// Primary color
+$link-color: #3f52b5;
+$link-hover-color: #2c3a8c;
+$primary: #3f52b5;
+
+/*-- scss:rules --*/
+
+:root {
+  --accent: #3f52b5;
+    --accent-hover: #2c3a8c;
+    --accent-light: #6674c4;
+  }
+  
+  [data-bs-theme="dark"] {
+    --accent: #7986cb;
+    --accent-hover: #9fa8da;
+    --accent-light: #5c6bc0;
+}
+
+// ── Navbar ──────────────────────────────────────────────────────
+.navbar {
+  border-bottom: 2px solid var(--accent);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--accent) !important;
+  }
+  
+  // ── Links ───────────────────────────────────────────────────────
+  a {
+    color: var(--accent);
+  
+    &:hover {
+      color: var(--accent-hover);
+    }
+}
+
+// ── TOC sidebar ─────────────────────────────────────────────────
+#TOC a.active {
+  color: var(--accent);
+    border-left: 2px solid var(--accent);
+}
+
+// ── Buttons ─────────────────────────────────────────────────────
+.btn-primary {
+  background-color: var(--accent);
+    border-color: var(--accent);
+  color: white;
+  &:hover {
+    background-color: var(--accent-hover);
+    border-color: var(--accent-hover);
+    color: white;
+  }
+}
+
+.btn-outline-secondary {
+  border-color: var(--accent);
+    color: var(--accent);
+  &:hover {
+    background-color: var(--accent);
+      border-color: var(--accent);
+    color: white;
+  }
+}
+
+// ── Headings ────────────────────────────────────────────────────
+h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.3rem;
+}
+// ── Code blocks ─────────────────────────────────────────────────
+div.sourceCode {
+  border-radius: 6px;
+  border-left: 3px solid var(--accent);
+  }
+  
+  [data-bs-theme="dark"] div.sourceCode {
+    border-color: rgba(255, 255, 255, 0.1);
+    border-left-color: var(--accent);
+}
+
+// ── Callouts ────────────────────────────────────────────────────
+.callout-note {
+  border-left-color: var(--accent);
+}
+.callout-tip       { border-left-color: #00bfa5; }
+.callout-warning   { border-left-color: #ff9100; }
+.callout-caution   { border-left-color: #ff5252; }
+.callout-important {
+  border-left-color: var(--accent-light);
+}
+
+// ── Home page hero ───────────────────────────────────────────────
+.hero-section {
+  padding: 4rem 2rem 3rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero-content {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.profile-pic {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--accent);
+    box-shadow: 0 4px 24px rgba(63, 82, 181, 0.25);
+  }
+  
+  [data-bs-theme="dark"] .profile-pic {
+    box-shadow: 0 4px 24px rgba(121, 134, 203, 0.35);
+}
+
+.hero-text h1 {
+  margin-bottom: 0.25rem;
+}
+
+.hero-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1.25rem;
+}
+
+// ── Highlight cards ──────────────────────────────────────────────
+.highlights-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  max-width: 900px;
+  margin: 2rem auto 4rem;
+  padding: 0 2rem;
+}
+
+.highlight-card {
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 1px solid rgba(63, 82, 181, 0.2);
+    border-top: 3px solid var(--accent);
+    transition: box-shadow 0.2s ease;
+  
+    &:hover {
+      box-shadow: 0 4px 16px rgba(63, 82, 181, 0.15);
+    }
+
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  a {
+    color: var(--accent);
+    font-weight: 500;
+  }
+}
+
+[data-bs-theme="dark"] .highlight-card {
+  border-color: rgba(121, 134, 203, 0.2);
+  background-color: rgba(255, 255, 255, 0.03);
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(121, 134, 203, 0.2);
+  }
+}
+
+// ── CV / Publications ────────────────────────────────────────────
+.cv-download {
+  margin-bottom: 1.5rem;
+}
+
+.pub-links {
+  margin-bottom: 1.5rem;
+}
+
+// ── Theme-aware images ───────────────────────────────────────────
+.dark-only {
+  display: none;
+}
+
+html[data-bs-theme="dark"] .dark-only,
+.quarto-dark .dark-only {
+  display: block;
+}
+
+html[data-bs-theme="dark"] .light-only,
+.quarto-dark .light-only {
+  display: none;
+}

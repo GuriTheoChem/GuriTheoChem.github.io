@@ -1,0 +1,34 @@
+---
+title: "Gurjot Singh"
+about:
+  template: jolla
+  image: images/profile_pic.jpg
+toc: false
+---
+
+PhD | Humboldt-Universität zu Berlin  
+Computational Chemistry
+
+<!-- Seeking Postdoctoral Opportunities -->
+
+My PhD work focused on studying Molecular Magnetism  
+in Transition Metal Complexes using Multireference Methods.
+
+---
+
+:::: {.highlights-section}
+::: {.highlight-card}
+### 🔬 Research
+[Learn more →](research/research.qmd)
+:::
+
+::: {.highlight-card}
+### 📄 Publications
+[See publications →](publications/publications.qmd)
+:::
+
+::: {.highlight-card}
+### 📝 Blog
+[Read posts →](blog/index.qmd)
+:::
+::::

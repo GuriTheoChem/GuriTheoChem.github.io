@@ -1,0 +1,76 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Gurjot Singh"
+  site-url: https://guritheochem.github.io
+  favicon: images/atom.png
+  
+  # Google Analytics
+  # google-analytics: "G-XXXXXXXXXX"  # Replace with your actual key
+
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        menu:
+          - text: "Research Overview"
+            href: research/research.qmd
+          - text: "My PhD Research"
+            href: research/phd_research.qmd
+      - text: "CV"
+        href: cv/cv.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/GuriTheoChem
+        aria-label: GitHub
+      - icon: gitlab
+        href: https://gitlab.com/guri_theo_chem
+        aria-label: GitLab
+      - text: "{{< fa brands google-scholar >}}"
+        href: https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ
+        aria-label: Google Scholar
+
+  sidebar: false
+
+  page-footer:
+    left: "Copyright © 2024–26 Gurjot Singh"
+    right:
+      - icon: github
+        href: https://github.com/GuriTheoChem
+      - icon: gitlab
+        href: https://gitlab.com/guri_theo_chem
+
+  # Open Graph / social sharing
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: [flatly, stylesheets/extra.scss]
+      dark: [darkly, stylesheets/extra.scss]
+    toc: true
+    toc-depth: 3
+    toc-title: "On this page"
+    smooth-scroll: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+    mainfont: "Roboto, sans-serif"
+    monofont: "Roboto Mono, monospace"
+
+# Bibliography
+bibliography: publications/publications.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/american-chemical-society.csl
+
+# Math support
+include-in-header:
+  text: |
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Mono&display=swap" rel="stylesheet">
