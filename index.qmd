@@ -9,7 +9,7 @@ toc: false
 PhD | Humboldt-Universität zu Berlin  
 Computational Chemistry
 
-<!-- Seeking Postdoctoral Opportunities -->
+Seeking Postdoctoral Opportunities
 
 My PhD work focused on studying Molecular Magnetism  
 in Transition Metal Complexes using Multireference Methods.
