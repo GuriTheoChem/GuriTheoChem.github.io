@@ -19,7 +19,7 @@ in Transition Metal Complexes using Multireference Methods.
 :::: {.highlights-section}
 ::: {.highlight-card}
 ### 🔬 Research
-[Learn more →](research/research.qmd)
+[Learn more →](research/research_interests.qmd)
 :::
 
 ::: {.highlight-card}

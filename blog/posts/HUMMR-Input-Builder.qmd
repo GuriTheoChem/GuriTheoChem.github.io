@@ -2,7 +2,7 @@
 title: "HUMMR Input Builder — A Simple Web GUI for HUMMR"
 date: 2025-12-11
 description: "A lightweight, browser-based GUI for generating input files for the HUMMR quantum chemistry program."
-categories: [tools, HUMMR, quantum-chemistry]
+categories: [HUMMR, Quantum Chemistry]
 author: Gurjot Singh
 ---
 

@@ -11,7 +11,7 @@ subtitle: "PhD, Computational Chemistry"
 
 ## Profile Links
 
-**Email:** <gurjot.singh@hu-berlin.de> | <guritheochem@gmail.com>
+**Email:** <guritheochem@gmail.com> | <gurjot.singh@hu-berlin.de>  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/GuriTheoChem){target="_blank"}
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/guri_theo_chem){target="_blank"}
@@ -21,16 +21,19 @@ subtitle: "PhD, Computational Chemistry"
 
 ## Education
 
-### PhD Chemistry
-Humboldt-Universität zu Berlin, Berlin, Germany  
+### PhD in Chemistry (magna cum laude)
+Humboldt-Universität zu Berlin  
+Berlin, Germany  
 2020–26
 
-### M.Sc. Chemistry
-Indian Institute of Technology Bombay, Mumbai, India  
+### M.Sc. in Chemistry
+Indian Institute of Technology Bombay  
+Mumbai, India  
 2017–19
 
-### B.Sc. (Honours) Chemistry
-Hansraj College, University of Delhi, Delhi, India  
+### B.Sc. (Honours) in Chemistry
+Hansraj College, University of Delhi  
+Delhi, India  
 2014–17
 
 ---

@@ -6,18 +6,16 @@ website:
   title: "Gurjot Singh"
   site-url: https://guritheochem.github.io
   favicon: images/atom.png
-  
-  # Google Analytics
+  back-to-top-navigation: true  
   # google-analytics: "G-XXXXXXXXXX"  # Replace with your actual key
-
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "Research"
         menu:
-          - text: "Research Overview"
-            href: research/research.qmd
+          - text: "Research Interests"
+            href: research/research_interests.qmd
           - text: "My PhD Research"
             href: research/phd_research.qmd
       - text: "CV"
@@ -26,6 +24,8 @@ website:
         href: publications/publications.qmd
       - text: "Blog"
         href: blog/index.qmd
+      - text: "Contact"
+        href: contact/contact.qmd        
     right:
       - icon: github
         href: https://github.com/GuriTheoChem
@@ -37,7 +37,16 @@ website:
         href: https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ
         aria-label: Google Scholar
 
-  sidebar: false
+  sidebar:
+      - id: research-sidebar
+        title: "Research"
+        style: "docked"
+        collapse-level: 1
+        contents:
+          - text: "Research Interests"
+            href: research/research_interests.qmd
+          - text: "PhD Research"
+            href: research/phd_research.qmd
 
   page-footer:
     left: "Copyright © 2024–26 Gurjot Singh"

@@ -1,0 +1,132 @@
+---
+title: "Research Interests"
+---
+
+![Quantum Chemistry](https://img.shields.io/badge/Quantum%20Chemistry-1565C0?style=for-the-badge)
+![Electronic Structure Theory](https://img.shields.io/badge/Electronic%20Structure%20Theory-00897B?style=for-the-badge)
+![Computational Chemistry](https://img.shields.io/badge/Computational%20Chemistry-00695C?style=for-the-badge)
+![Ab Initio Methods](https://img.shields.io/badge/Ab%20Initio%20Methods-7E57C2?style=for-the-badge)
+<!-- ![Transition Metal Chemistry](https://img.shields.io/badge/Transition%20Metal%20Chemistry-4527A0?style=for-the-badge) -->
+<!-- ![Molecular Magnetism](https://img.shields.io/badge/Molecular%20Magnetism-0288D1?style=for-the-badge) -->
+
+My research interests lie in solving interesting chemical problems through computational methods, by both developing and applying *ab initio* approaches to understand molecular behaviour.
+
+My [PhD Research](/research/phd_research.qmd) gave me a strong foundation in transition metal chemistry and molecular magnetism.
+I am now looking to build on that foundation while growing into new directions, particularly astrochemistry and f-block chemistry.
+
+## Broad areas of interest
+
+- Computational Chemistry
+- Electronic Structure Theory
+- Molecular Modeling
+- Molecular Spectroscopy
+- Molecular Magnetism
+- Transition Metal Chemistry
+- f-Block Chemistry
+- Astrochemistry
+
+---
+
+## Research directions in depth
+
+### Transition Metal Chemistry & Molecular Magnetism
+
+::: {.callout-important appearance="minimal" icon=false}
+**PhD focus**
+:::
+
+My doctoral research centred on studying molecular magnetism in transition metal complexes using computational methods.
+This has given me hands-on experience with the tools and theory underpinning this area, and I remain deeply interested in the open questions it poses.
+
+::: {.callout-note title="Skills developed during my PhD" icon=false}
+
+- Multireference methods (CASSCF, NEVPT2, QD-NEVPT2) for open-shell transition metal systems
+- Large active space methods (DMRG, selected CI solvers)
+- Exchange coupling calculations (DDCI, BS-LPNO-CCSD)
+- Spin-orbit coupling and EPR parameter calculations ($g$-tensors)
+- DFT for transition metal complexes
+- Implementation of quantum chemistry methods in C++ (HUMMR program)
+- Scientific computing and data analysis with Python (NumPy, Matplotlib)
+- Experimental collaboration and spectroscopic interpretation
+
+:::
+
+::: {.callout-note title="Skills I am eager to develop" icon=false}
+
+- Relativistic quantum chemical methods
+- Electronic structure modelling of 4d and 5d transition metal complexes
+- Spectroscopic properties beyond EPR (e.g. optical spectra, X-ray absorption, etc.)
+
+:::
+
+---
+
+### Astrochemistry
+
+::: {.callout-tip appearance="minimal" icon=false}
+**New direction**
+:::
+
+I am drawn to astrochemistry by a fundamental question: how do complex molecules arise in different astrophysical environments?
+These environments range from planets, moons, asteroids, icy bodies like comets, and the interstellar medium.
+
+My interest is primarily rooted in the story of the Miller--Urey experiment, which explains the formation of complex biomolecules from a primordial soup of simple precursors.
+Understanding analogous chemistry in space offers a new perspective on the origins of life on Earth.
+
+::: {.callout-note title="Relevant background from my PhD" icon=false}
+
+- High-level ab initio methods (CASSCF, NEVPT2, CCSD via ORCA and PySCF)
+- Molecular property calculations
+- Reaction pathway and energetics analysis
+- Scientific computing with Python for data analysis and visualisation
+
+:::
+
+::: {.callout-note title="Skills I am eager to develop" icon=false}
+
+- Surface and ice chemistry modelling (periodic and cluster calculations)
+- Spectroscopic property calculations for interstellar molecule identification
+- Electronic structure of open-shell radicals and ions relevant to the ISM
+- High-accuracy potential energy surfaces for interstellar reactions
+- Reaction mechanisms and energetics in low-temperature environments
+
+:::
+
+---
+
+### f-Block chemistry & single-molecule magnets
+
+::: {.callout-tip appearance="minimal" icon=false}
+**New direction**
+:::
+
+The modelling of lanthanide and actinide complexes, and their magnetic properties, is a natural extension of my PhD work.
+I am particularly interested in single-molecule magnets (SMMs), which are molecular systems proposed as capable of storing information.
+In these systems, the f-element plays a decisive role in the electronic structure.
+I want to contribute to the computational design of viable SMM candidates.
+
+::: {.callout-note title="Relevant background from my PhD" icon=false}
+
+- Multireference methods which are directly applicable to f-element systems
+- Spin-orbit coupling and molecular magnetism calculations
+- Implementation experience in quantum chemistry codes
+
+:::
+
+::: {.callout-note title="Skills I am eager to develop" icon=false}
+
+- Ab initio modelling of lanthanide and actinide complexes
+- Relativistic methods for heavy elements (scalar and spin-orbit)
+- Magnetic exchange coupling in polynuclear f-block complexes
+- Extending multireference frameworks to f-element systems
+
+:::
+
+---
+
+## Looking for a postdoctoral position
+
+I am currently looking for a postdoctoral position where I can build on my PhD expertise 
+while growing into one or more of these new directions.
+
+If you are working on problems in any of these areas and think my background could be a good fit, I would be very happy to hear from you.

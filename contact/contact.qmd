@@ -1,0 +1,43 @@
+---
+title: "Contact"
+sidebar: false
+toc: false
+---
+
+::: {.contact-grid}
+
+::: {.contact-item}
+[{{< fa envelope >}}]{.contact-icon}
+**Email**
+[guritheochem@gmail.com](mailto:guritheochem@gmail.com)
+:::
+
+::: {.contact-item}
+[{{< fa envelope >}}]{.contact-icon}
+**Email**
+[gurjot.singh@hu-berlin.de](mailto:gurjot.singh@hu-berlin.de)
+:::
+
+:::
+
+::: {.contact-grid}
+
+::: {.contact-item}
+[{{< fa brands github >}}]{.contact-icon}
+**GitHub**
+[GuriTheoChem](https://github.com/GuriTheoChem){target="_blank"}
+:::
+
+::: {.contact-item}
+[{{< fa brands gitlab >}}]{.contact-icon}
+**GitLab**
+[guri_theo_chem](https://gitlab.com/guri_theo_chem){target="_blank"}
+:::
+
+::: {.contact-item}
+[{{< fa brands google-scholar >}}]{.contact-icon}
+**Google Scholar**
+[Gurjot Singh](https://scholar.google.com/citations?hl=en&user=7_TIJlgAAAAJ){target="_blank"}
+:::
+
+:::
