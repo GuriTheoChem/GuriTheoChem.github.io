@@ -14,9 +14,16 @@ E. F. Beyer; T. Dargel; L. Gerndt; A. Khedkar; T. Kull; J. Noetzel; A. Sergel; *
 HUMMR: A quantum chemistry program for strongly correlated molecular systems.  
 *Manuscript in preparation*
 
-**G. Singh**; M. Roemelt.  
+<!-- **G. Singh**; M. Roemelt.  
 Spin-orbit coupling with quasidegenerate N-electron valence state perturbation theory using selected CI references for molecular g-tensor calculations.  
-*Manuscript in preparation*
+*Manuscript in preparation* -->
+
+## 2026
+
+**G. Singh**.
+Ab Initio Insights into Molecular Magnetism: A Multireference Study of Transition Metal Complexes.
+*PhD thesis*, *Humboldt-Universität zu Berlin*, **2026**.
+<https://doi.org/10.18452/37580>
 
 ## 2024
 
